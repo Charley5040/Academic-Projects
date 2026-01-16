@@ -1,4 +1,4 @@
-# ENSE 271
+# Academic Projects
 This is a repository for hosting work in the class for use as a portfolio 
 
 I will be uploading my work though the semester into this repository
